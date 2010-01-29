@@ -1,0 +1,2 @@
+A quick'n'dirty Python script to interactively create KVM virtual machines for
+those of you who are tired of the long "vmbuiler kvm ..." command lines.
